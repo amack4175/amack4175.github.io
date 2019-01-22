@@ -1,2 +1,2 @@
 # amack4175.github.io
-Public url
+Public url (https://amack4175.github.io)
