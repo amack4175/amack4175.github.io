@@ -1,0 +1,17 @@
+body {
+background: #ff9966
+}
+
+.coiny {
+  font-family: 'Coiny', cursive;
+}
+.smalltext {
+  font-size: 12px;
+}
+.mediumtext {
+  font-size: 22px;
+
+}
+.largetext {
+  font-size: 32px;
+}

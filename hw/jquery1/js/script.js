@@ -2,11 +2,11 @@
 var step = 0;
 
 var titles = [
-  'Prepare for take-off', // this is 0 titles[0]
-  'Put seat belt on', // this is 1 titles[1]
-  'Turn on the engines', // this is 2
-  'Turn the lights on', // this is 3
-  'Press go!' //this is 4
+  'Foot Placement', // this is 0 titles[0]
+  'Hand Placement', // this is 1 titles[1]
+  'Knee Bend', // this is 2
+  'Power Up', // this is 3
+  'Hold Your Point/Follow Through' //this is 4
   ];
 
 $(function(){
