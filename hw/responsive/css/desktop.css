@@ -1,0 +1,19 @@
+.news { grid-template-columns: 5fr 5fr 5fr}
+
+.regularimages, .backgroundimages {
+  display: grid;
+  grid-template-columns: 5fr 5fr 5fr 5fr;
+}
+
+.backgroundimages div {
+  height: 300px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  margin: 5px;
+
+}
+.imagestext {
+  display: grid;
+  grid-template-columns: 2fr 5fr
+}

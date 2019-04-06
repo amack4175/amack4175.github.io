@@ -1,0 +1,7 @@
+.grid { display: grid;}
+body { background: #cccccc; }
+.news div { border:1px solid red; margin: 5px}
+img { max-width: 100%;}
+.imgbg { background: url("../images/imagename.png");}
+
+section, div, img { padding: 10px; background: #f1f1f1}
