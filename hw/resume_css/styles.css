@@ -1,0 +1,52 @@
+body {
+background: #0CFEE6
+}
+
+.coiny {
+  font-family: 'Coiny', cursive;
+}
+.smalltext {
+  font-size: 12px;
+}
+.mediumtext {
+  font-size: 22px;
+
+}
+.largetext {
+  font-size: 32px;
+
+}
+
+h1 {
+color: #010101;
+}
+.secondarycolor {
+  color: #1020FE;
+}
+.list_titles {
+  color: #006D3E;
+  border-bottom: 2px dotted #008B4F;
+}
+.customlink {
+  color: orange
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+background: black;
+color: white
+}
+
+#profileimage {
+  text-align: center;
+}
+#mainaddress {
+  text-align: center;
+  font-size: 20px;
+}
+.divider {
+  border-style: solid;
+  border-color: white;
+
+}
