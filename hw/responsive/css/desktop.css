@@ -1,19 +1,21 @@
-.news { grid-template-columns: 5fr 5fr 5fr}
-
-.regularimages, .backgroundimages {
+.grid5 {
+  background: #cccccc;
+  margin-top: 200px;
+  width: 1000px;
   display: grid;
-  grid-template-columns: 5fr 5fr 5fr 5fr;
+  grid-template-columns: 2fr 2fr 2fr 2fr;
+  max-width: 100%;
 }
-
-.backgroundimages div {
-  height: 300px;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
+.buyproductsmenu{
+  display: grid;
+  grid-template-columns: 5fr 5fr 5fr;
   margin: 5px;
-
 }
-.imagestext {
+.grid{
+  background: Grey;
+  margin-top: 100px;
+  width: 960px;
   display: grid;
-  grid-template-columns: 2fr 5fr
+  grid-template-columns: 5fr 5fr;
+  max-width: 100%
 }
